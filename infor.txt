@@ -1,4 +1,5 @@
+
 i am coming from chennai
-i am working as a senior-devloper
-ansible
+i am working as a devops
+salt
 docker
